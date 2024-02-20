@@ -1,4 +1,8 @@
+// TODO
+// - Pass language parameters in the query eg: es:pollo
 
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-undef */
 
 // API endpoints
 const DICTIONARY_API_URL = 'https://lexicala1.p.rapidapi.com/search-entries';
