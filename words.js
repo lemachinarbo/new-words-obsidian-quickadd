@@ -1,5 +1,4 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-undef */
+
 
 // API endpoints
 const DICTIONARY_API_URL = 'https://lexicala1.p.rapidapi.com/search-entries';
@@ -358,7 +357,7 @@ async function start(params, settings) {
             search: `${SEARCH_URL}${query}`,
             definitions: linkifyList(definitions),
             firstDefinition: definitions[0] || 'n/a', // Placeholder for empty definitions.
-            otherDefinitions: linkifyList(definitions.slice(1)),
+            otherDefinitions: linkifyList(definitions.slice(1)) || 'n/a',
             translation: translatedWord?.translation || 'n/a'
 
         };
