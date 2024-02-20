@@ -6,6 +6,10 @@ As a non-native English speaker, when I'm reading English literature and find an
 
 Therefore, I thought it will be great to compile a list of new words with their definitions and translations, so I can revisit it later for learning purposes.
 
+## Demo
+[new words.webm](https://github.com/lemachinarbo/new-words-obsidian-quickadd/assets/153532864/7441e710-938d-46a2-bfb1-fc702851f794)
+
+
 # How to create your own list
 ## Requirements
 
